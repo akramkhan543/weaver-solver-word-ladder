@@ -1,2 +1,2 @@
 # weaver-solver-word-ladder
-My personal repository where I have developed a free online word ladder solver. It is useful for students to learn new english words. The final result can be accessed at https://wordladdersolver.com
+My personal repository where I have developed a free online word ladder solver. It is useful for students to learn new english words. The final result can be accessed at https://wordladdersolver.com while for those just curious on how to use it in the right way, just enter two words of the same lenght and see the magic. Do bookmark the URL in your kids device so that they can learn new words on daily basis.
